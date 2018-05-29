@@ -5,26 +5,26 @@ import android.graphics.Typeface;
 import android.support.v7.widget.AppCompatTextView;
 import android.util.AttributeSet;
 
-public class IosTextView extends AppCompatTextView {
+public class IosTextViewBold extends AppCompatTextView {
 
-    public IosTextView(Context context) {
+    public IosTextViewBold(Context context) {
         super(context);
         init();
     }
 
-    public IosTextView(Context context, AttributeSet attrs) {
+    public IosTextViewBold(Context context, AttributeSet attrs) {
         super(context, attrs);
         init();
     }
 
-    public IosTextView(Context context, AttributeSet attrs, int defStyleAttr) {
+    public IosTextViewBold(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
         init();
     }
 
     private void init() {
         if (!isInEditMode()) {
-            Typeface tf = Typeface.createFromAsset(getContext().getAssets(), "fonts/ios_font.otf");
+            Typeface tf = Typeface.createFromAsset(getContext().getAssets(), "fonts/ios_font_bold.otf");
             setTypeface(tf);
         }
     }
