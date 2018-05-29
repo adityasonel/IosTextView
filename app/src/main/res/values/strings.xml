@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">IosTextViewExample</string>
+
+    <string name="bold_string">This is bold styled\niOS font textview</string>
+    <string name="regular_string">This is regular styled\niOS font textview</string>
 </resources>
