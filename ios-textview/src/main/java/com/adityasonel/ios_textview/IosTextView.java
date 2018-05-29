@@ -1,4 +1,4 @@
-package com.heisen_berg.ios_textview;
+package com.adityasonel.ios_textview;
 
 import android.content.Context;
 import android.graphics.Typeface;
