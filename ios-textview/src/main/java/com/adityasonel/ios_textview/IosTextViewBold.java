@@ -4,28 +4,23 @@ import android.content.Context;
 import android.graphics.Typeface;
 import android.support.v7.widget.AppCompatTextView;
 import android.util.AttributeSet;
+import android.view.View;
 
 public class IosTextViewBold extends AppCompatTextView {
 
     public IosTextViewBold(Context context) {
         super(context);
-        init();
+        Util.initBoldFont(context, this);
     }
 
     public IosTextViewBold(Context context, AttributeSet attrs) {
         super(context, attrs);
-        init();
+        Util.initBoldFont(context, this);
     }
 
     public IosTextViewBold(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
-        init();
+        Util.initBoldFont(context, this);
     }
 
-    private void init() {
-        if (!isInEditMode()) {
-            Typeface tf = Typeface.createFromAsset(getContext().getAssets(), "fonts/ios_font_bold.otf");
-            setTypeface(tf);
-        }
-    }
 }

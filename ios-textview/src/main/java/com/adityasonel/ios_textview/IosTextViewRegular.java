@@ -9,23 +9,17 @@ public class IosTextViewRegular extends AppCompatTextView {
 
     public IosTextViewRegular(Context context) {
         super(context);
-        init();
+        Util.initRegularFont(context, this);
     }
 
     public IosTextViewRegular(Context context, AttributeSet attrs) {
         super(context, attrs);
-        init();
+        Util.initRegularFont(context, this);
     }
 
     public IosTextViewRegular(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
-        init();
+        Util.initRegularFont(context, this);
     }
 
-    private void init() {
-        if (!isInEditMode()) {
-            Typeface tf = Typeface.createFromAsset(getContext().getAssets(), "fonts/ios_font_regular.otf");
-            setTypeface(tf);
-        }
-    }
 }

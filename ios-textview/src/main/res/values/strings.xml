@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">IosTextView</string>
+
+    <string name="ios_bold_font_path">fonts/ios_font_bold.otf</string>
+    <string name="ios_regular_font_path">fonts/ios_font_regular.otf</string>
 </resources>
