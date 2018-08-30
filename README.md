@@ -22,7 +22,7 @@ allprojects {
 
 then add
 ````
-implementation 'com.github.adityasonel:IosTextView:0.2'
+implementation 'com.github.adityasonel:IosTextView:0.2.1'
 ````
 in your app's `build.gradle`
 
