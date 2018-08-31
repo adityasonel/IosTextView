@@ -205,11 +205,17 @@ Others:
 
 <Frequently used app>
 
-<In the last 1 year I haved learned ->
+<In the last 1 year I haved learned >
 
 ### Among the technologies you are recently interersted in, give us the name of one and the reason it draws your attention (list upto three points).
 
-<Your response>
+In this small career of mine I am still learning as well as I am working on many technologies. All technologies have there own structure, plus points, minus points. But I am mostly influenced with the "React JS" and the "Augmented Reality / Virtual Reality". Let first talk about "The React JS", In my views react js is like the "Doremon" of coding world. Let discuss this in points,
+
+1. If you want to develop a website you can code on react.
+2. If you want to develop a mobile application (almost every major mobile platform) you can code on react in the form of react native. 
+3. If you want to develop desktop application you can code on react, using proton-native.
+
+Now my views about AR/VR, currently I am working on a project related to AR using Vuforia SDK with Unity IDE. And I can say that, AR/VR is going to change digital world. Let take an example, currently in smartphones user getting an voice assistant with AI. Which helps user in many different ways. But just in place voice assistant if user get a 3D Model to interact instead of just a voice, it become more and more joyful and attractive for users. We can use AR/VR in our websites / smart application / smart appliances in many innovative ways. And I am sure this is going to be happen in future anytime.
 
 ### Among the projects you have worked on, which one are you  most proud of? What were your tasks in the project, and how did you use your knowledge/skills to come up with the solution?
 
@@ -230,5 +236,6 @@ Others:
 
 1. [Why you should totally switch to Kotlin](https://medium.com/@magnus.chatt/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5)
 2. [Predictions for the Future of Augmented Reality](https://hackernoon.com/predictions-for-the-future-of-augmented-reality-63c7b8c9d794)
-
-# Thank you for your participation.
+3. [How I replicated an $86 million project in 57 lines of code](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9)
+4. [Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
+5. [Putting comments in code: the good, the bad, and the ugly.](https://medium.freecodecamp.org/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83)
