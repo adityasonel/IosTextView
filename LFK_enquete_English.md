@@ -199,7 +199,7 @@ Others:
 
 ### What are the specific kind of work you wish to pursue in LINE?
 
-<Your response>
+I would like to work on related to js. This technology is having a great potential in it with the power and wisdom of the javascript. Also I am currently working on a project related to AR/VR, if I can work on AR/VR technology at LINE it will be a great oppurtunity for me.
 
 ### Among the apps you are currently using, which ones are you particularly interested in or using frequently? (web/smartphone apps are both acceptible; make sure to provide one frequently used app and what you have learned about in the last one year.)
 
