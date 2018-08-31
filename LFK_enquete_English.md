@@ -3,22 +3,9 @@
 
 # Applicant
 
-- Name:
-- Date:
-- Preferred work location:    
-※ Please choose one (Tokyo office/ Fukuoka office/ Kyoto office) 
-※ All of the positions in Tokyo office are required Japanese skills equivalent to JLPT Level 2 or above.
-※ Applicant who choose Tokyo Office, please provide your Japanese certificate or any proof of your Japanese skills, non-Japanese speaking candidate please select Fukuoka or Kyoto Office.
-
-
-# Preface
-
-Thank you for applying to LINE/LINE Fukuoka's recruitment.
-Please go through the following directions before starting the survey.
-
-1. Please write your response below the questions.
-2. Please make sure your response is not shared with others.
-3. Please include your name in the file name.
+- Name: Aditya Sonel (FirstName Last Name)
+- Date: 30 / August / 2018
+- Preferred work location: Fukuoka
 
 # Enquete
 
@@ -28,190 +15,185 @@ If you wish to add to the list, or your choice of programming is not in the list
 
 ### Language
 
-- [ ] JavaScript
-- [ ] C/C++
-- [ ] Java
+- [x] JavaScript
+- [x] C/C++
+- [x] Java
 - [ ] Ruby
-- [ ] Python
-- [ ] PHP
+- [x] Python
+- [x] PHP
 - [ ] Scala
 - [ ] Clojure
-- [ ] Swift
+- [x] Swift
 
 Others:
+- [x] React JS
+- [x] React native
 
 ### Frameworks & State Management
 
-- [ ] Vue
-    - [ ] Vuex
-- [ ] React
-    - [ ] Redux
-    - [ ] Relay
-- [ ] Angular
-    - [ ] Angular 1
+- [x] Vue
+    - [x] Vuex
+- [x] React
+    - [x] Redux
+    - [x] Relay
+- [x] Angular
+    - [x] Angular 1
     - [ ] Angular 2
-- [ ] Ember
+- [x] Ember
 - [ ] Backbone
 - [ ] Elm
 
-Others:
-
 ### Typed JavaScript & JS Compiler
 
-- [ ] TypeScript
-- [ ] Flow
-- [ ] Babel
+- [x] TypeScript
+- [x] Flow
+- [x] Babel
 - [ ] CoffeeScript
-
-Others:
 
 ### Testing
 
-- [ ] Mocha
+- [x] Mocha
 - [ ] Jasmine
-- [ ] Enzyme
+- [x] Enzyme
 - [ ] Jest
 - [ ] Ava
-- [ ] Selenium
+- [x] Selenium
 - [ ] WebDriver
 
 Others:
 
+- [x] Chai
+- [x] Sinon
+
 ### CSS Compilers
 
 - [ ] Sass/Scss
-- [ ] Less
-- [ ] CSS Modules
-- [ ] Styled Components
-
-Others:
+- [x] Less
+- [x] CSS Modules
+- [x] Styled Components
 
 ### Build Tools
 
-- [ ] Webpack
-- [ ] Browserify
+- [x] Webpack
+- [x] Browserify
 - [ ] Rollup
-- [ ] Gulp
-- [ ] Grunt
+- [x] Gulp
+- [x] Grunt
 - [ ] Closure
-
-Others:
 
 ### Mobile Frameworks
 
-- [ ] React Native
-- [ ] Cordova
+- [x] React Native
+- [x] Cordova
 
-±âÅ¸ :
+Others:
+
+- [x] Ionic
 
 ### Server-Side Framework & API Layer
 
 - [ ] Spring
 - [ ] Ruby on Rails
 - [ ] Express
-- [ ] Firebase
-- [ ] GraphQL
+- [x] Firebase
+- [x] GraphQL
 
 Others:
+
+- [x] AWS
 
 ### Database
 
-- [ ] MySQL
+- [x] MySQL
 - [ ] PostgreSQL
-- [ ] Mongo
-- [ ] Redis
-- [ ] Amazon Aurora
+- [x] Mongo
+- [x] Redis
+- [x] Amazon Aurora
 
 Others:
+
+- [x] Firebase
+- [x] Realm Database
 
 ### Virtualization
 
-- [ ] Docker
+- [x] Docker
 - [ ] Vagrant
-
-Others:
 
 ### OS
 
-- [ ] macOS
-- [ ] Windows
+- [x] macOS
+- [x] Windows
 - [ ] Linux (Red Hat family)
-- [ ] Linux (Debian family)
-- [ ] Linux (Etc)
-
-Others:
+- [x] Linux (Debian family)
+- [x] Linux (Etc)
 
 ### Web Server
 
 - [ ] NGINX
-- [ ] Apache
+- [x] Apache
 
 Others:
+
+- [x] Node JS
 
 ### IDE/Editor
 
-- [ ] Vim
+- [x] Vim
 - [ ] Emacs
-- [ ] VS Code
-- [ ] Sublime Text
-- [ ] Atom
-- [ ] IntelliJ IDEA
+- [x] VS Code
+- [x] Sublime Text
+- [x] Atom
+- [x] IntelliJ IDEA
 
 Others:
+
+- [x] XCode
+- [x] Android Studio
+- [x] Deco
+- [x] WebStorm
 
 ### UML/Diagram
 
 - [ ] Enterprise Architect
 - [ ] Rational
 - [ ] XDE
-- [ ] LucidChart
-
-Others:
+- [x] LucidChart
 
 ### SCM
 
-- [ ] CVS
+- [x] CVS
 - [ ] Subversion
-- [ ] Git
+- [x] Git
 - [ ] Mercurial
 - [ ] Perforce
-
-Others:
 
 ### CI
 
 - [ ] Jenkins
-- [ ] Circle CI
+- [x] Circle CI
 - [ ] Travis CI
-
-Others:
 
 ### Issue Tracker
 
-- [ ] JIRA
+- [x] JIRA
 - [ ] Redmine
-- [ ] Bugzilla
-- [ ] Trello
-
-Others:
+- [x] Bugzilla
+- [x] Trello
 
 ### Agile Process
 
-- [ ] Scrum
+- [x] Scrum
 - [ ] XP
 - [ ] Kanban
 
-Others:
-
 ### Social Coding & Code Review
 
-- [ ] GitHub
-- [ ] Bitbucket
-- [ ] GitLab
+- [x] GitHub
+- [x] Bitbucket
+- [x] GitLab
 - [ ] Stash
 - [ ] Crucible/FishEye
-
-Others:
 
 ## Q2. Please respond to the following question.
 
@@ -235,14 +217,18 @@ Others:
 
 ### Public Repository URL (if you have GitHub and Bitbucket accounts)
 
-<Your Response>
+1. [Github](https://github.com/adityasonel)
 
 ### Public URL (blog, Twitter., etc)
 
-<Your Response>
+1. [StackOverFlow](https://stackoverflow.com/story/adityasonel)
+2. [Twitter](https://twitter.com/heisen_brg)
+3. [Facebook](https://www.facebook.com/aditya.sonel)
+4. [Personnal Blog](https://adityasonel.github.io)
 
 ### What are the names of the technical writings (book and articles) that had the most profound impact on you? (list upto 3, if you have any)
 
-<Your Response>
+1. [Why you should totally switch to Kotlin](https://medium.com/@magnus.chatt/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5)
+2. [Predictions for the Future of Augmented Reality](https://hackernoon.com/predictions-for-the-future-of-augmented-reality-63c7b8c9d794)
 
 # Thank you for your participation.
