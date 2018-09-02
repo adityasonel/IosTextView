@@ -219,7 +219,7 @@ Now my views about AR/VR, currently I am working on a project related to AR usin
 
 ### Among the projects you have worked on, which one are you  most proud of? What were your tasks in the project, and how did you use your knowledge/skills to come up with the solution?
 
-Although I proud on my every minor or major project till date. But the most paramount project is which I am working on currently. This project is special for me because I am working first time on AR/VR technology, and I feel like AR/VR is magic. 
+Although I proud on my every minor or major project till date. But the most paramount project is which I am working on currently. This project is special for me because I am working first time on AR/VR technology. In this project I have to work on Unity IDE with Vuforia AR/VR SDK. While working on Unity pretty easy for me because I was earliear worked on it while competing in Microsoft DreamSpark Contest in my university period. This working knowledge over Unity IDE, I used work over this project Unity IDE part easily. While Vuforia SDK part is little bit more complex but I am sure I would finish this project in the given timeline. Working on AR/VR technology is always entertaining for me, becuase it showcase the real product what I developed or what I am trying to build. After ArCore and ArKit publicly releasing working on AR/VR is became more interesting.
 
 ### Public Repository URL (if you have GitHub and Bitbucket accounts)
 
