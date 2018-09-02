@@ -203,9 +203,9 @@ I would like to work on related to js. This technology is having a great potenti
 
 ### Among the apps you are currently using, which ones are you particularly interested in or using frequently? (web/smartphone apps are both acceptible; make sure to provide one frequently used app and what you have learned about in the last one year.)
 
-<Frequently used app>
+For a common smartphone user, that application is very usefull by which a user can do almost every daily essential works. For me that application is "Paytm", Paytm is mutli feature application. I am using paytm for paying my bills, paying for cabs daily, booking a theathre ticket or even if I want to pay any local store directly from my bank account. So by this way I don't have to roam with the wallet full of cash all round. Paytm is very usefull application for me.
 
-<In the last 1 year I haved learned >
+For almost 3 years ago, I started coding as android application developer at my graduation period. But as the time passes I started to work on different technologies. As in last one year I majorly work over projects related to react js or react-native. In this year I learnt the depth knowledge of working over react or react-native with state management frameworks like redux and others.
 
 ### Among the technologies you are recently interersted in, give us the name of one and the reason it draws your attention (list upto three points).
 
