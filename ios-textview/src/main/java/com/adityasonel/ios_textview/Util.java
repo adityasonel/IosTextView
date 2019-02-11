@@ -2,7 +2,7 @@ package com.adityasonel.ios_textview;
 
 import android.content.Context;
 import android.graphics.Typeface;
-import android.support.v7.widget.AppCompatTextView;
+import androidx.appcompat.widget.AppCompatTextView;
 
 public class Util {
 
